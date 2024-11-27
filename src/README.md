@@ -3,4 +3,4 @@
 - Rest Assured Basics
 - Rest Assured Advanced Concepts
 
-# How to test project?
+# How to run project?
