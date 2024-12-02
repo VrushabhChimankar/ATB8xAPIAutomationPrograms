@@ -1,4 +1,4 @@
-package ATB8xVrushabh;
+package ATB8xVrushabh.GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

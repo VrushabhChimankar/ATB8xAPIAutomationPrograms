@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/ATB8xAPIAutomationPrograms">
         <classes>
-            <class name="ATB8xVrushabh.APITest_Get_BDDStyle">
+            <class name="ATB8xVrushabh.GET.APITest_Get_BDDStyle">
             </class>
         </classes>
     </test>
