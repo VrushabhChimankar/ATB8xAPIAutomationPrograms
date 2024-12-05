@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/ATB8xAPIAutomationPrograms">
+        <groups>
+            <run>
+                <include name="qa"> </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="ATB8xVrushabh.TestNGExamples.APITest009_Groups">
+            </class>
+        </classes>
+    </test>
+</suite>
